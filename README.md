@@ -1,4 +1,6 @@
-# Visualizacion-y-storytelling
+# Visualizacion y storytelling
+
+## Dashboard 2: visualización y documentación para narrar a un equipo de trabajo
 
 
 ![image](https://github.com/rubyal/Visualizaci-n-y-storytelling/assets/88467602/4598bb0a-b80c-4915-b780-494108506702)
